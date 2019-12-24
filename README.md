@@ -1,7 +1,7 @@
 ### Cafe'
 ### Framework 
 ### Backend: Spring-boot | Database: H2, When Developing | support PostgreSQL, SQL, SQL Server
-### Frontend: React | Design by bootstrap, and Design, react-bootstrap
+### Frontend: Angular | Design by Angular Material and core-UI
 ### Sprint 1
 - การซื้อของใน Cafe' เช่น Coffee Cafe'
 - เลือกสินค้า
